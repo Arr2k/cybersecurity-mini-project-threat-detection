@@ -1,6 +1,6 @@
 # cybersecurity-mini-project-threat-detection
-using random forest ML 
-to get the phising get, approach karggle: https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector
+using random forest ML.
+To get the phising get, approach karggle: https://www.kaggle.com/datasets/eswarchandt/phishing-website-detector
 download the file, and upload to drive. In google colab, addd the file from the uploaded drive
 
 #step 1- import the libraries
